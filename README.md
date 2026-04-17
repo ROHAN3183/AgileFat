@@ -1,0 +1,1 @@
+echo "# Palindrome Python Project" > README.md
